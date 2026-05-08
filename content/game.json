@@ -1,0 +1,479 @@
+{
+  "name": "Amaze Game",
+  "domain": "amaze-game.com",
+  "slug": "amaze-game",
+  "genre": "Puzzle",
+  "iframeUrl": "/game/index.html",
+  "seo": {
+    "title": "Play Amaze Game Free – Online Puzzle, No Download Needed",
+    "description": "Play Amaze Game free online — fill every tile by sliding across the grid. No download, no account needed. A satisfying browser puzzle for all ages.",
+    "keywords": [
+      "Amaze Game",
+      "amaze game online",
+      "play amaze free",
+      "maze fill puzzle",
+      "tile fill game",
+      "free puzzle game online",
+      "brain training game"
+    ]
+  },
+  "homepage": {
+    "heroHeadline": "Fill Every Tile. Play Amaze Free.",
+    "heroSubtitle": "Slide across the grid and colour every cell to solve each puzzle. No download, no account — just open and play.",
+    "lede": "Amaze Game is a free browser puzzle where you swipe to fill every tile on the grid. Hundreds of levels, zero installs.",
+    "stats": [
+      {
+        "value": "200+",
+        "label": "Levels"
+      },
+      {
+        "value": "100%",
+        "label": "Tile Fill Goal"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "100%",
+        "label": "Free Forever"
+      }
+    ],
+    "about": {
+      "kicker": "What is Amaze Game?",
+      "headline": "The puzzle game that rewards complete thinking.",
+      "paragraph1": "Amaze Game is a free online puzzle where the goal is simple: fill every tile on the grid without leaving a single cell uncoloured. You slide in straight lines — up, down, left, right — and your path colours each tile you cross. The challenge lies in planning a route that covers the entire board without getting stuck.",
+      "paragraph2": "Each level introduces new grid shapes and obstacles that force you to think further ahead. Early stages are gentle enough for first-timers, while later levels demand careful planning across dozens of moves. There is nothing to install and no account to create — the game runs instantly in any modern browser on desktop or mobile."
+    },
+    "howToPlay": {
+      "headline": "One rule. Endless challenge.",
+      "subheading": "Swipe or use arrow keys to slide across the grid and colour every tile."
+    },
+    "steps": [
+      {
+        "icon": "folder",
+        "title": "Open the Game",
+        "desc": "Go to the Play page — Amaze Game loads instantly in your browser. No app store, no installation, no waiting."
+      },
+      {
+        "icon": "eye",
+        "title": "Read the Grid",
+        "desc": "Study the board before moving. Spot dead ends, narrow corridors, and any pre-filled tiles that constrain your path."
+      },
+      {
+        "icon": "refresh",
+        "title": "Slide to Fill",
+        "desc": "Swipe or press an arrow key. Your piece slides in a straight line, colouring every tile it crosses until hitting a wall."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Plan Your Route",
+        "desc": "Think several moves ahead. The key is finding a path that visits every cell — similar to a Hamiltonian path problem."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Fill 100% to Win",
+        "desc": "When every tile is coloured, the level is complete. Each cleared stage unlocks the next, with progressively larger and trickier grids."
+      }
+    ],
+    "categories": [
+      {
+        "name": "Beginner",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Intermediate",
+        "icon": "target",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Advanced",
+        "icon": "zap",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Expert",
+        "icon": "trophy",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Master",
+        "icon": "crown",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
+    ],
+    "features": [
+      {
+        "icon": "bolt",
+        "title": "Instant Browser Play",
+        "desc": "No download or sign-up required. Click Play and the puzzle loads in seconds on any modern browser."
+      },
+      {
+        "icon": "target",
+        "title": "Progressive Difficulty",
+        "desc": "Over 200 levels that scale from simple 4x4 grids to complex irregular shapes that test even seasoned puzzle solvers."
+      },
+      {
+        "icon": "device",
+        "title": "Works on Any Device",
+        "desc": "Fully responsive design means Amaze Game plays equally well on desktop with keyboard arrows or on mobile with swipe controls."
+      },
+      {
+        "icon": "image",
+        "title": "Clean Visual Design",
+        "desc": "Bright, distraction-free colours make it easy to track your path and spot unfilled tiles at a glance."
+      },
+      {
+        "icon": "shield",
+        "title": "Safe for All Ages",
+        "desc": "No ads targeting children, no in-app purchases, and no account required. A clean, family-friendly puzzle experience."
+      },
+      {
+        "icon": "music",
+        "title": "Calm Audio Feedback",
+        "desc": "Subtle sound cues confirm each successful slide and celebrate level completion without overwhelming background noise."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Amaze Game?",
+        "a": "Amaze Game is a free online puzzle where you slide across a grid to colour every tile. The goal is to fill 100% of the board in a single continuous path without retracing your steps."
+      },
+      {
+        "q": "Is Amaze Game free?",
+        "a": "Yes, completely free. There are no hidden charges, premium levels behind a paywall, or in-app purchases of any kind."
+      },
+      {
+        "q": "Does Amaze Game work on mobile?",
+        "a": "Yes. The game uses swipe controls on touchscreens and arrow keys on desktop. It adjusts automatically to your screen size."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "There are over 200 levels, ranging from small beginner grids to large, complex boards that require careful planning to complete."
+      },
+      {
+        "q": "Is Amaze Game safe for kids?",
+        "a": "Yes. The game contains no violence, no targeted advertising, and no account creation. It is suitable for players of all ages."
+      },
+      {
+        "q": "Do I need an account?",
+        "a": "No account is needed. Open the game, choose a level, and start playing immediately."
+      }
+    ],
+    "cta": {
+      "headline": "Ready to fill the grid?",
+      "subtext": "Open Amaze Game now — no download, no sign-up, just pure puzzle."
+    }
+  },
+  "playPage": {
+    "howItWorksSubtitle": "Slide in any direction to colour tiles. Fill every cell to complete the level.",
+    "steps": [
+      {
+        "title": "Choose Your Direction",
+        "desc": "Swipe or press an arrow key to start moving. Your piece slides until it hits a wall or the edge of the grid, colouring every tile along the way."
+      },
+      {
+        "title": "Cover the Whole Board",
+        "desc": "Keep sliding and changing direction to reach uncoloured tiles. The puzzle is solved only when 100% of the grid is filled — not 99%."
+      },
+      {
+        "title": "Restart and Refine",
+        "desc": "If you get stuck, tap the restart button and try a different opening move. Most levels have multiple valid solutions, so experiment freely."
+      }
+    ]
+  },
+  "faqPage": {
+    "items": [
+      {
+        "q": "Is Amaze Game really free?",
+        "a": "Yes, entirely free. There are no subscription fees, premium tiers, or purchases of any kind. Every level is accessible from the start."
+      },
+      {
+        "q": "What devices can I play on?",
+        "a": "Amaze Game runs in any modern browser — Chrome, Safari, Firefox, Edge — on desktop, tablet, and mobile. No app download required."
+      },
+      {
+        "q": "How does the game work?",
+        "a": "You control a sliding piece on a grid. Swipe or use arrow keys to move in straight lines, colouring every tile your piece crosses. Fill the entire grid to win the level."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "There are over 200 levels. They begin with small, straightforward grids and progress to large, irregular boards that require multi-step planning."
+      },
+      {
+        "q": "Can I play offline?",
+        "a": "Once the game has loaded in your browser, it continues to work even if your connection drops. However, an initial connection is needed to load the page."
+      },
+      {
+        "q": "Is my progress saved?",
+        "a": "Progress is saved in your browser's local storage. As long as you use the same browser and device, your completed levels will be remembered between sessions."
+      },
+      {
+        "q": "Is Amaze Game safe for children?",
+        "a": "Yes. The game has no violence, no chat features, no targeted advertising, and requires no personal information. It is safe for all ages."
+      },
+      {
+        "q": "Do I need to create an account?",
+        "a": "No. There is no registration, login, or account of any kind. Open the site and start playing straight away."
+      }
+    ]
+  },
+  "howToPlayPage": {
+    "intro": "Amaze Game is built on one core rule: slide your piece across the grid and colour every tile before you run out of moves. Understanding how the sliding mechanic works — and how to plan around it — is the difference between breezing through levels and getting stuck on them.",
+    "steps": [
+      {
+        "title": "Slide in a Straight Line",
+        "desc": "Each move sends your piece in one direction until it hits a boundary — a wall, the grid edge, or a previously coloured tile. You cannot stop mid-row; the piece always travels as far as it can go."
+      },
+      {
+        "title": "Colour as You Go",
+        "desc": "Every tile your piece crosses becomes coloured. The counter in the corner shows your fill percentage. Reach 100% and the level is complete."
+      },
+      {
+        "title": "Plan Before You Move",
+        "desc": "Analyse the grid before your first swipe. Identify corners and dead-end corridors first — these are easy to isolate yourself in. Working inward from the edges is a reliable opening strategy."
+      }
+    ],
+    "mechanic": {
+      "title": "The Hamiltonian Path Problem",
+      "desc": "Each Amaze Game level is a visual version of the Hamiltonian path problem in mathematics — finding a route that visits every point on a graph exactly once. There is no shortcut: the solution requires visiting every tile in a single connected path. This is why planning multiple moves ahead is so important, especially on irregular grid shapes."
+    },
+    "difficultyProgression": "Early levels use small square grids (4x4 or 5x5) with open layouts that allow many valid solutions. Mid-range levels introduce L-shapes, T-shapes, and internal walls that reduce the number of possible paths. Advanced and Expert levels feature large irregular grids where a single wrong early move blocks access to an entire section of the board. Master levels combine tight corridors with asymmetric shapes that require near-perfect route planning from the first move.",
+    "tips": [
+      {
+        "title": "Fill Corners First",
+        "desc": "Corners can only be entered and exited in two ways. If you leave a corner for later, you risk boxing yourself out of it. Visit corner tiles early in your route so they do not become unreachable dead ends."
+      },
+      {
+        "title": "Work the Edges",
+        "desc": "Edge tiles along the border of the grid have fewer connections than central tiles. Clearing the perimeter early opens up the interior and gives you more routing flexibility for the harder central section."
+      },
+      {
+        "title": "Identify Dead Ends Early",
+        "desc": "Before moving, look for narrow corridors or single-entry areas. These must be the last region you enter, because once you are in them you cannot exit from the same direction you came. Spotting them early shapes your whole route."
+      },
+      {
+        "title": "Restart Without Hesitation",
+        "desc": "Getting stuck three moves from the end is frustrating, but restarts are free and instant. Treat each failed attempt as information — you now know one route that does not work. The next attempt is better informed."
+      },
+      {
+        "title": "Visualise the Full Path",
+        "desc": "On harder levels, try to trace a complete route in your head before making your first move. It takes thirty seconds but saves several restarts. Think of the grid as a single continuous line that must visit every point."
+      }
+    ]
+  },
+  "blog": {
+    "headline": "Guides &amp; Strategy",
+    "subheading": "Tips, walkthroughs, and puzzle science for Amaze Game players.",
+    "introParagraph": "Whether you are stuck on a tricky level or want to understand why path-fill puzzles are so satisfying, these guides break down the game's mechanics, share proven strategies, and explain the cognitive science behind why puzzles like Amaze Game are good for your brain.",
+    "posts": [
+      {
+        "slug": "getting-started",
+        "title": "Getting Started with Amaze Game: A Complete Beginner's Guide",
+        "excerpt": "New to Amaze Game? This guide explains the sliding mechanic, your first moves, and how to approach the opening levels without getting stuck.",
+        "category": "Guide",
+        "readTime": "5 min read",
+        "date": "2026-01-01",
+        "icon": "🗺️",
+        "sections": [
+          {
+            "heading": "What Is Amaze Game?",
+            "paragraphs": [
+              "Amaze Game is a free browser puzzle built around one satisfying mechanic: slide a piece across a grid to colour every tile. The piece travels in straight lines until it hits a wall, colouring each cell it passes through. Your goal is to fill 100% of the board in a single continuous journey — no tile left behind.",
+              "The concept is simple to grasp in seconds, but the puzzle depth grows considerably as levels introduce irregular grid shapes, internal walls, and narrow corridors. It is the kind of game that feels easy to start and difficult to put down, particularly when a tricky level is only one more restart away from being cracked."
+            ]
+          },
+          {
+            "heading": "How to Open the Game",
+            "paragraphs": [
+              "Visit amaze-game.com on any device. The game loads directly in your browser — no app store visit, no download, no account creation. On desktop, use your keyboard arrow keys to control the piece. On mobile or tablet, swipe in the direction you want to move. The controls respond immediately.",
+              "The level select screen shows your progress through the 200+ stage catalogue. Completed levels are marked, and you can replay any stage you have already cleared. There is no energy system or daily limit — play as many levels as you like in a single session."
+            ]
+          },
+          {
+            "heading": "Your First Five Minutes",
+            "paragraphs": [
+              "The opening levels use small 4x4 and 5x5 grids with straightforward layouts. Use them to internalise the sliding mechanic: your piece does not stop until it hits something. Swipe right and it travels all the way to the right wall. This is the core rule everything else is built on.",
+              "Do not worry about efficiency on the early levels. Explore different starting directions, watch how the fill percentage climbs, and get a feel for how quickly you can isolate sections of the grid. By level 10, you will naturally start thinking one or two moves ahead — that instinct is exactly what the harder levels require."
+            ]
+          },
+          {
+            "heading": "Ready to Play?",
+            "paragraphs": [
+              "Head to the Play page, pick Level 1, and start sliding. Each level completed builds the spatial reasoning skills needed for the next. There is no time pressure and restarts are instant, so approach each puzzle at your own pace."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "tips-and-tricks",
+        "title": "Top Tips & Tricks for Amaze Game",
+        "excerpt": "These strategies will help you clear difficult grids, avoid dead ends, and approach every level with a plan rather than guesswork.",
+        "category": "Strategy",
+        "readTime": "7 min read",
+        "date": "2026-01-05",
+        "icon": "💡",
+        "sections": [
+          {
+            "heading": "Master the Fundamentals",
+            "paragraphs": [
+              "Before developing any advanced strategy, make sure you have internalised the one fundamental rule: your piece slides until it hits something. This means every move is deterministic — there is no uncertainty about where you will end up. Use this to your advantage by tracing moves mentally before committing to them.",
+              "Another foundational habit is watching the fill percentage counter after every move. If a move increases the counter by only one or two percent on a large grid, you are likely moving along a route that will leave isolated sections unreachable. Aim for moves that paint long stretches of tiles."
+            ]
+          },
+          {
+            "heading": "Think Before You Act",
+            "paragraphs": [
+              "The biggest mistake beginners make is swiping quickly and hoping for the best. Amaze Game rewards deliberate thinking. On any level above Beginner difficulty, take five seconds to scan the entire grid before your first move. Identify the corners, the narrow corridors, and any sections that can only be entered from one direction.",
+              "Sections with a single entry point must be the last area you visit. If you enter them early, you trap yourself inside. Finding these bottleneck sections before you start sliding is the single most effective strategy for solving hard levels on the first or second attempt."
+            ]
+          },
+          {
+            "heading": "Recognise Patterns Early",
+            "paragraphs": [
+              "After playing twenty or thirty levels, you will start recognising recurring grid patterns. L-shaped grids almost always require you to travel the long arm first, then loop back through the short arm. T-shaped grids have a natural order determined by which branch is the narrowest. Recognising these shapes on sight speeds up solution-finding significantly.",
+              "Irregular grids with internal walls are trickier, but the same principle applies: find the most constrained section first and work backwards from there. The constrained section dictates your exit point, which in turn dictates your entry point, which then shapes the entire route."
+            ]
+          },
+          {
+            "heading": "Advanced Techniques",
+            "paragraphs": [
+              "On Master-level grids, start by mentally dividing the board into quadrants or sections. Plan which quadrant you will fill last, then work out how to reach it from the penultimate quadrant. This top-down planning approach is far more reliable than trying to improvise a route tile by tile.",
+              "If you keep failing the same level, try deliberately choosing a different starting tile. Many players default to the same corner every time, which locks them into the same failing route. Starting from the opposite corner or from a central edge tile often reveals solutions that were invisible from the default starting position."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "game-benefits",
+        "title": "The Cognitive Benefits of Playing Amaze Game",
+        "excerpt": "Path-fill puzzles are more than entertainment. Here is what research says about the mental skills they train.",
+        "category": "Science",
+        "readTime": "6 min read",
+        "date": "2026-01-10",
+        "icon": "🧠",
+        "sections": [
+          {
+            "heading": "Games and the Brain",
+            "paragraphs": [
+              "Puzzle games that require spatial planning have been studied extensively by cognitive scientists. Research consistently finds that regular engagement with spatial puzzles strengthens working memory, improves mental rotation ability, and sharpens attention to visual detail. Path-fill games specifically activate the brain regions associated with navigation and route planning.",
+              "Amaze Game engages the same cognitive systems used in map reading, chess, and engineering problem-solving. Short daily sessions are sufficient to see measurable improvements in spatial reasoning over several weeks of consistent play."
+            ]
+          },
+          {
+            "heading": "Problem-Solving",
+            "paragraphs": [
+              "Each level is a constrained optimisation problem: find a route that covers every tile, stays within bounds, and never retraces. Solving these repeatedly trains the brain to approach problems systematically rather than reactively. Players learn to break a complex challenge into smaller sub-problems — a skill that transfers directly to academic and professional contexts.",
+              "The act of recognising when a current strategy is failing and choosing to restart — rather than persisting with a doomed route — also builds adaptive thinking. Knowing when to abandon an approach and try something fundamentally different is one of the most valuable cognitive skills a puzzle game can develop."
+            ]
+          },
+          {
+            "heading": "Stress Relief",
+            "paragraphs": [
+              "Despite the planning involved, Amaze Game is widely reported to be relaxing rather than stressful. The mechanic creates a clear feedback loop: every move either brings you closer to 100% or reveals a dead end that prompts a clean restart. There are no time limits, no opponents, and no penalty for failure.",
+              "This structure produces the psychological state researchers call flow — deep absorption in a task that is challenging but achievable. Flow states are associated with reduced cortisol levels and improved mood. Many players report using Amaze Game as a wind-down activity precisely because the focused but low-stakes nature of the puzzle displaces anxious thinking."
+            ]
+          },
+          {
+            "heading": "Safe Screen Time",
+            "paragraphs": [
+              "Not all screen time is equal. Passive consumption has different cognitive effects than active problem-solving. Amaze Game falls firmly in the active category: every session requires attention, planning, and decision-making. The brain is engaged rather than passive throughout.",
+              "For parents looking for screen time that offers genuine cognitive value, path-fill puzzles are among the most evidence-supported choices. The game contains no violent content, no social comparison mechanics, and no notifications designed to create compulsive checking behaviour."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "how-to-improve",
+        "title": "How to Get Better at Amaze Game",
+        "excerpt": "Stuck on a difficulty plateau? These practice habits will sharpen your spatial planning and break you through to harder levels.",
+        "category": "Strategy",
+        "readTime": "8 min read",
+        "date": "2026-01-15",
+        "icon": "📈",
+        "sections": [
+          {
+            "heading": "Focus on Consistency",
+            "paragraphs": [
+              "Improvement at path-fill puzzles comes from repeated exposure to different grid shapes, not from grinding the same level. Set a goal of clearing at least three new levels per session. This forces you to encounter fresh configurations and build a broader library of recognised patterns.",
+              "Consistency over time matters more than long individual sessions. Twenty minutes of focused play each day will improve your spatial reasoning faster than a single two-hour session once a week. The brain consolidates spatial skills during rest, so regular short sessions with gaps between them are the most efficient path to progress."
+            ]
+          },
+          {
+            "heading": "Analyse Your Mistakes",
+            "paragraphs": [
+              "When you fail a level, do not immediately restart. Spend ten seconds looking at where you got stuck. Was there a corner left too late? A narrow corridor entered from the wrong direction? Identifying the specific point of failure transforms each restart into a learning event rather than a simple reset.",
+              "Over time, you will notice that your failures cluster around the same types of mistakes — perhaps always underestimating L-shaped grids, or consistently entering dead-end corridors too early. Awareness of your personal failure patterns allows you to apply extra caution in exactly those situations."
+            ]
+          },
+          {
+            "heading": "Build a Strategy",
+            "paragraphs": [
+              "The most effective players follow a consistent pre-move routine: scan the grid, identify the most constrained section, plan the exit from that section, then work backwards to determine an entry route. This top-down approach is slower than intuitive swiping on easy levels, but significantly more reliable on Advanced and Expert grids.",
+              "Building this routine into a habit takes around twenty to thirty sessions of deliberate practice. Once it becomes automatic, levels that previously felt impossibly complex become straightforward — the structure of the solution becomes visible the moment you look at the grid."
+            ]
+          },
+          {
+            "heading": "Practice Regularly",
+            "paragraphs": [
+              "Return to levels you found difficult after a few days away. Spatial puzzle skills consolidate during sleep, and a level that seemed unsolvable on Tuesday often yields to a fresh attempt on Thursday. Memory reconsolidation during sleep reorganises spatial information in ways that make previously blocked solutions accessible.",
+              "If you have cleared all available levels, replay the hardest ones with a self-imposed constraint: solve each level in the fewest moves possible. This forces you to find optimal routes rather than merely correct ones, pushing your planning ability further and keeping the challenge meaningful on familiar grids."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "parents-guide",
+        "title": "Amaze Game for Kids: A Parent's Complete Guide",
+        "excerpt": "Is Amaze Game right for your child? Here is everything parents need to know about content, safety, educational value, and healthy play habits.",
+        "category": "Family",
+        "readTime": "6 min read",
+        "date": "2026-01-20",
+        "icon": "👨‍👩‍👧",
+        "sections": [
+          {
+            "heading": "Is Amaze Game Safe for Children?",
+            "paragraphs": [
+              "Yes. Amaze Game contains no violence, no inappropriate content, and no social features such as chat or leaderboards that expose children to other users. The game runs entirely in the browser and requires no account creation, which means no personal data is collected from your child.",
+              "There are no advertisements targeting children and no in-app purchases of any kind. Every level is freely accessible from the start. Parents can hand a device to a child and be confident they will encounter nothing harmful — just clean, colourful grid puzzles."
+            ]
+          },
+          {
+            "heading": "What Will My Child Learn?",
+            "paragraphs": [
+              "Amaze Game develops spatial reasoning, one of the strongest predictors of later achievement in mathematics, science, and engineering. Children who regularly engage with spatial puzzles demonstrate improved performance in geometry, measurement, and data interpretation tasks at school.",
+              "Beyond spatial skills, the game teaches systematic thinking and persistence. Children learn to plan before acting, to identify why a strategy failed, and to try a different approach rather than repeating the same mistake. These metacognitive skills — thinking about how you think — are among the most transferable benefits of puzzle gaming."
+            ]
+          },
+          {
+            "heading": "Tips for Healthy Screen Time",
+            "paragraphs": [
+              "Because Amaze Game has no time pressure and no notifications, it does not create the compulsive checking behaviour associated with social media or notification-heavy games. However, like all screen time, it is best enjoyed in defined sessions rather than open-ended play.",
+              "A good rule of thumb is twenty to thirty minutes of puzzle play, followed by an equally active offline activity. Discussing the puzzles together — asking your child how they solved a level, or working through a tricky one collaboratively — adds a social dimension that multiplies the cognitive benefit."
+            ]
+          },
+          {
+            "heading": "COPPA Compliance",
+            "paragraphs": [
+              "Amaze Game does not collect personal information from any user, including children under 13. There is no registration, no email address required, and no tracking of individual players. The game stores only anonymous session progress in the browser's local storage on the device itself, never transmitted to any server.",
+              "This design makes the game compliant with children's online privacy principles by default. No parental consent process is required because there is simply no data to consent to. Parents can be confident that their child's play activity remains entirely private."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "embedUrl": "https://html5.gamemonetize.co/9ptuxedz7qew9dmuhxhzzvmsmtv8mvce/",
+  "embedSource": "GameMonetize - Amaze Mission"
+}
